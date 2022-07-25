@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "linechartview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Jonathan-Gander/LineChartView",
+      "state" : {
+        "revision" : "91416f04a04ad3117e4fe58c35a24bb66e57ebb4",
+        "version" : "1.4.0"
+      }
+    },
+    {
+      "identity" : "stockcharts",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/denniscm190/StockCharts.git",
+      "state" : {
+        "revision" : "5a374cada5703ae6da1e11f1b28afed2cc96984c",
+        "version" : "1.2.9"
+      }
+    }
+  ],
+  "version" : 2
+}
